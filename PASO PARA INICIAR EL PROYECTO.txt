@@ -1,0 +1,9 @@
+PASO PARA INICIAR EL PROYECTO
+
+1 Configurar MySQL y crear la base de datos con nombre education_db
+2 Ejecutar python backend/init_db.py para inicializar
+3 Configurar el archivo config.py en backend con las credenciales de su local
+4 Instalar dependencias del backend: pip install -r requirements.txt
+5 Instalar dependencias del frontend: yarn en la carpeta frontend
+6 Iniciar backend: python backend/app.py
+7 Iniciar frontend: yarn start en la carpeta frontend
