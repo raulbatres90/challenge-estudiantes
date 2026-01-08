@@ -7,3 +7,4 @@ PASO PARA INICIAR EL PROYECTO
 5 Instalar dependencias del frontend: yarn en la carpeta frontend
 6 Iniciar backend: python backend/app.py
 7 Iniciar frontend: yarn start en la carpeta frontend
+8 El usuario es admin@test.com y la pass admin123
